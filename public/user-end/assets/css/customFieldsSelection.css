@@ -1,0 +1,150 @@
+.details-filter-row label{
+    width: auto !important;
+}
+.ab_custom_field {
+    display: inline-block;
+    padding: 10px;
+    border: solid 2px #dadada;
+}
+input[type="radio"] {
+    display: none;
+}
+input[type="radio"]:checked + .ab_custom_field {
+    border: solid 2px black;
+}
+.ab_custom_field_f_length {
+    display: inline-block;
+    padding: 10px;
+    border: solid 2px #dadada;
+}
+input[type="radio"]:checked + .ab_custom_field_f_length {
+    border: solid 2px black;
+}
+.ab_custom_fieldpower_model {
+    display: inline-block;
+    padding: 10px;
+    border: solid 2px #dadada;
+}
+input[type="radio"]:checked + .ab_custom_fieldpower_model {
+    border: solid 2px black;
+}
+.ab_custom_fieldvoltage {
+    display: inline-block;
+    padding: 10px;
+    border: solid 2px #dadada;
+}
+input[type="radio"]:checked + .ab_custom_fieldvoltage {
+    border: solid 2px black;
+}
+.ab_custom_fieldset_word {
+    display: inline-block;
+    padding: 10px;
+    border: solid 2px #dadada;
+}
+input[type="radio"]:checked + .ab_custom_fieldset_word {
+    border: solid 2px black;
+}
+.ab_custom_fieldsize {
+    display: inline-block;
+    padding: 10px;
+    border: solid 2px #dadada;
+}
+input[type="radio"]:checked + .ab_custom_fieldsize {
+    border: solid 2px black;
+}
+.ab_custom_fieldworking_area {
+    display: inline-block;
+    padding: 10px;
+    border: solid 2px #dadada;
+}
+input[type="radio"]:checked + .ab_custom_fieldworking_area {
+    border: solid 2px black;
+}
+.ab_custom_fieldbone_diameters {
+    display: inline-block;
+    padding: 10px;
+    border: solid 2px #dadada;
+}
+input[type="radio"]:checked + .ab_custom_fieldbone_diameters {
+    border: solid 2px black;
+}
+.ab_custom_fieldmodel {
+    display: inline-block;
+    padding: 10px;
+    border: solid 2px #dadada;
+}
+input[type="radio"]:checked + .ab_custom_fieldmodel {
+    border: solid 2px black;
+}
+.ab_custom_fieldoutput_voltage {
+    display: inline-block;
+    padding: 10px;
+    border: solid 2px #dadada;
+}
+input[type="radio"]:checked + .ab_custom_fieldoutput_voltage {
+    border: solid 2px black;
+}
+.ab_custom_fieldmodel_number {
+    display: inline-block;
+    padding: 10px;
+    border: solid 2px #dadada;
+}
+input[type="radio"]:checked + .ab_custom_fieldmodel_number {
+    border: solid 2px black;
+}
+.ab_custom_fieldtype {
+    display: inline-block;
+    padding: 10px;
+    border: solid 2px #dadada;
+}
+input[type="radio"]:checked + .ab_custom_fieldtype {
+    border: solid 2px black;
+}
+.ab_custom_fieldcaliber {
+    display: inline-block;
+    padding: 10px;
+    border: solid 2px #dadada;
+}
+input[type="radio"]:checked + .ab_custom_fieldcaliber {
+    border: solid 2px black;
+}
+.ab_custom_fieldsub_strate_size {
+    display: inline-block;
+    padding: 10px;
+    border: solid 2px #dadada;
+}
+input[type="radio"]:checked + .ab_custom_fieldsub_strate_size {
+    border: solid 2px black;
+}
+.ab_custom_fieldwavelength {
+    display: inline-block;
+    padding: 10px;
+    border: solid 2px #dadada;
+}
+input[type="radio"]:checked + .ab_custom_fieldwavelength {
+    border: solid 2px black;
+}
+.ab_custom_fieldmaterial {
+    display: inline-block;
+    padding: 10px;
+    border: solid 2px #dadada;
+}
+input[type="radio"]:checked + .ab_custom_fieldmaterial {
+    border: solid 2px black;
+}
+.ab_custom_fieldstyle {
+    display: inline-block;
+    padding: 10px;
+    border: solid 2px #dadada;
+}
+input[type="radio"]:checked + .ab_custom_fieldstyle {
+    border: solid 2px black;
+}
+.ab_custom_fieldcolor {
+    display: inline-block;
+    padding: 10px;
+    border: solid 2px #dadada;
+}
+input[type="radio"]:checked + .ab_custom_fieldcolor {
+    border: solid 2px black;
+}
